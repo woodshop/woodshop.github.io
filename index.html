@@ -1,37 +1,78 @@
 ---
 layout: post-index
-title: Latest Posts
-description: "Describe this nonsense."
+title: Dartmouth College, October 10-12
+description: "October 10-12."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: chicken.jpg
+  credit: 
+  creditlink: 
 ---
 
+<!-- sticky post hack from http://blog.tamouse.org/blog/2013/09/28/jekyll-making-posts-sticky/ -->
+<!-- add this section to put sticky posts on page 1 -->
+{% if paginator.page == 1 %}
+  {% for post in site.categories.sticky %}
+    <article class="hentry">
+      <header>
+        <div class="entry-meta">
+          <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}
+          {% if site.reading_time %}
+          <span class="entry-reading-time pull-right">
+            <i class="fa fa-clock-o"></i>
+            {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
+            Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+          </span><!-- /.entry-reading-time -->
+          {% endif %}
+        </div><!-- /.entry-meta -->
+        {% if post.link %}
+          <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="fa fa-angle-double-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+        {% else %}
+          <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+        {% endif %}
+      </header>
+      <h1 class="notice">
+      Sticky Post
+      </h1>
+      <div class="entry-content">
+        {{ post.content }}
+      </div><!-- /.entry-content -->
+    </article>
+  {% endfor %}
+{% endif %}
+
+
 {% for post in paginator.posts %}
-<article class="hentry">
-  <header>
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}
-      {% if site.reading_time %}
-      <span class="entry-reading-time pull-right">
-        <i class="fa fa-clock-o"></i>
-        {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
-        Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-      </span><!-- /.entry-reading-time -->
+  {% assign sticky = false %}
+    {% for cat in post.categories %} <!-- roll through this pages categories to find if it is sticky -->
+      {% if cat == 'sticky' %}
+        {% assign sticky = true %}
       {% endif %}
-    </div><!-- /.entry-meta -->
-    {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="fa fa-angle-double-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
-    {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-    {% endif %}
-  </header>
-  <div class="entry-content">
-    {{ post.content }}
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
+    {% endfor %}
+  {% unless sticky %} <!-- only show the article if it is NOT sticky -->
+    <article class="hentry">
+      <header>
+        <div class="entry-meta">
+          <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}
+          {% if site.reading_time %}
+          <span class="entry-reading-time pull-right">
+            <i class="fa fa-clock-o"></i>
+            {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
+            Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+          </span><!-- /.entry-reading-time -->
+          {% endif %}
+        </div><!-- /.entry-meta -->
+        {% if post.link %}
+          <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="fa fa-angle-double-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+        {% else %}
+          <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+        {% endif %}
+      </header>
+      <div class="entry-content">
+        {{ post.content }}
+      </div><!-- /.entry-content -->
+    </article><!-- /.hentry -->
+  {% endunless %}
 {% endfor %}
 
 <div class="pagination">
