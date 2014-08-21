@@ -2,5 +2,6 @@
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
+_site
 node_modules
 Gemfile.lock
