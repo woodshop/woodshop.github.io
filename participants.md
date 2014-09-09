@@ -39,7 +39,7 @@ Alex will discuss digital raster scanning as audiovisual synthesis.
 	<a href="/images/kerr.jpg"><img width="400" src="/images/kerr.jpg" alt=""></a>
 </figure>
 
-James Kerr is an animator who creates GIFs using Renaissance art and graphic illustrations. His humorous work treats subjects such as religion, class, entertainment, and modernism by juxtaposing Renaissance art with graphic depictions drawing from pop cultural references. [His work](http://scorpiondagger.com/) has been featured on [Boing Boing](http://boingboing.net/2014/08/04/the-amazing-renaissance-art-gi.html) and other blogs.
+James Kerr is an animator who creates GIFs using Renaissance art and graphic illustrations. His humorous work treats subjects such as religion, class, entertainment, and modernism by juxtaposing Renaissance art with graphic depictions drawn from pop cultural references. [His work](http://scorpiondagger.com/) has been featured on [Boing Boing](http://boingboing.net/2014/08/04/the-amazing-renaissance-art-gi.html) and other blogs.
 
 ### Description
 James will talk about his compositional process, along with a discussion of interactive (GIF) art in live settings.
