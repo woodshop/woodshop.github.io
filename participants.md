@@ -110,7 +110,7 @@ His talk description is forthcoming but will likely focus on auditory scene anal
 
 [Joan Bruna](http://cims.nyu.edu/~bruna/Home.html) Is a postdoctoral researcher in applied mathematics in Yann LeCun’s group, in the Courant Institute, New York. Joan's research focuses on scattering transforms for classification and he has demonstrated scattering transforms on algorithms for [audio texture synthesis](http://cims.nyu.edu/~bruna/Audio_Texture_Synthesis.html).
 
-## Description
+### Description
 
 Forthcoming.
 
