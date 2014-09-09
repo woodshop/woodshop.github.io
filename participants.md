@@ -39,7 +39,7 @@ Alex will discuss digital raster scanning as audiovisual synthesis.
 	<a href="/images/kerr.jpg"><img width="400" src="/images/kerr.jpg" alt=""></a>
 </figure>
 
-James Kerr is an animator who creates GIFs using Renaissance art and graphic illustrations. His humorous work treats subjects such as religion, class, entertainment, and modernism by juxtaposing Renaissance art with graphic depictions drawing from pop cultural references. [His work](http://instagram.com/scorpiondagger) has been featured on [Boing Boing](http://boingboing.net/2014/08/04/the-amazing-renaissance-art-gi.html) and other blogs.
+James Kerr is an animator who creates GIFs using Renaissance art and graphic illustrations. His humorous work treats subjects such as religion, class, entertainment, and modernism by juxtaposing Renaissance art with graphic depictions drawing from pop cultural references. [His work](http://scorpiondagger.com/) has been featured on [Boing Boing](http://boingboing.net/2014/08/04/the-amazing-renaissance-art-gi.html) and other blogs.
 
 ### Description
 James will talk about his compositional process, along with a discussion of interactive (GIF) art in live settings.
@@ -71,10 +71,17 @@ Her tutorial description is forthcoming.
 <figure>
 	<a href="/images/peterson.jpg"><img width="400" src="/images/peterson.jpg" alt=""></a>
 </figure>
-[Scott Peterson](http://scacinto.wordpress.com/bios/sca-c-i-n-t-o/) is a composer, performer, electronic musician and laptop improviser.  He is the Assistant Director of the [Yale Music Technology Labs](http://yalmust.yale.edu/) and gives workshops on instrument-making and electronics at [MakeHaven](makehaven.org).
 
-### Description
-Scott's tutorial description is forthcoming. It will focus on live coding with an emphasis on live synthesis. He will draw from personal experience about the techniques he's explored that assisted or detracted in performance settings. 
+[Scott Petersen](http://scacinto.wordpress.com/bios/sca-c-i-n-t-o/) (aka s c a c i n t o | s k ɑ ʃ ɪ n t o ʊ | ) is a composer, performer, electronic musician
+and laptop improviser. His current research and work revolves around open music technologies, improvisational electronic music, analog electronic instrument design, and experimental music programming. His output is diverse and includes works for large orchestra, small ensemble with and without electronics, works for large homogeneous instrumental groups, film/animation, sound installation, and laptop improvisation with custom designed hardware and software interfaces. Scott has performed and had his work performed and exhibited throughout the United States and Europe. He is a founding member of both the collaborative New Haven Electronic Music Composers group (El MuCo) and of [MakeHaven](http://makehaven.org/), a DIY maker space, and he founded and curates the FridayNightThing, an ongoing new music and arts gathering. Scott currently works as the Assistant Director of the [Yale Music Technology Labs](http://yalmust.yale.edu/) and as the director of the YalMusT Open Music Initiative in the Yale Department of Music.
+
+### Systems and Methods of Performative Synthesis: Considerations for Improvising with Code
+
+This workshop will provide the attendee with an introduction to several systems and methods for improvising with code, focussing specifically on the strengths and weaknesses of different approaches to live audio synthesis. The workshop will use the audio programming language SuperCollider for all examples, but the concepts are portable to other languages.
+
+Key topics will include: data entry and interaction methods, communication protocols, language­specific goodies (UGens), one­liners, strengths and weaknesses of syntactic sugar, hardware considerations for real­time synthesis and more.
+
+You may find it helpful to install SuperCollider before attending the workshop as example files, documentation and further reading will be provided beforehand.
 
 ## Andy Sarroff
 
