@@ -114,6 +114,17 @@ His talk description is forthcoming but will likely focus on auditory scene anal
 
 Forthcoming.
 
+## Jason Hockman
+
+<figure>
+	<a href="/images/hockman.jpg"><img width="400" src="/images/hockman.jpg" alt=""></a>
+</figure>
+
+[Jason Hockman](http://www.music.mcgill.ca/~hockman/) recently completed his PhD on a technological and ethnomusicological study of breakbeats at McGill University. His research has focused on musical rhythm analysis and synthesis.
+
+### Description
+Forthcoming.
+
 ## Parag Mital
 
 <figure>
