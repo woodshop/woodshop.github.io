@@ -16,10 +16,10 @@ share: true
 	<a href="/images/dominguez.jpg"><img width="400" src="/images/dominguez.jpg" alt=""></a>
 </figure>
 
-[Carlos Dominguez](http://charlossound.wordpress.com/) is an alum of Dartmouth's Digital Musics program and a Research Assistant in Dartmouth's Film & Media Studies Department.
+[Carlos Dominguez](http://charlossound.wordpress.com/) works on a variety of different projects that involve chamber music, laptop performances, and sound installations. Most recently he has been interested in the uses of visible light in musical performances and compositions. He is currently a research assistant at Dartmouth College on a project with Jodie Mack.
 
 ### Description
-Carlos will give a tutorial on making a hybrid analog/digital device for reading light data for creative expression.
+Carlos will give a tutorial on making a hybrid digital/analog device for reading visible light data and discuss how it can be used for installation and performance art. In collaboration with Alexander Dupuis, the device will be incorporated into a performance at the Workshop in the Woods.
 
 ## Alex Dupuis
 
@@ -131,18 +131,6 @@ Forthcoming.
 
 ### Description
 Forthcoming.
-
-## Parag Mital
-
-<figure>
-	<a href="/images/mital.jpg"><img width="400" src="/images/mital.jpg" alt=""></a>
-</figure>
-
-[Parag Mital](http://pkmital.com/home/) is a postdoctoral researcher at Dartmouth college. He currently works on mapping musical audio to brain images using fMRI data.
-
-### Computational Audiovisual Scene Synthesis.
-
-This thesis attempts to open a dialogue around fundamental questions of perception such as: how do we represent our ongoing auditory or visual perception of the world using our brain; what could these representations explain and not explain; and how can these representations eventually be modeled by computers? Rather than answer these questions scientifically, we will attempt to develop a computational arts practice presenting these questions to participants. The approach this thesis takes is computational scene synthesis: a computationally generative collage process where the units of the collage are built using perceptually-inspired representations. We explain how scene synthesis is built in detail and relate it to an existing lineage of collage-based practitioners. Then, working in auditory and visual domains separately, in order to bring questions of perception to the experience of the artwork, this thesis makes significant interdisciplinary strides from reviewing fundamental issues in perception in terms of experimental psychology and cognitive neuroscience, to formulating and developing perceptually-inspired computational models of large databases of audiovisual material, to finally developing these models with a computationally generative collage-based arts practice. Two final practical outputs using audiovisual scene synthesis will be explored: (1) a short film series which attempts to recreate the number 1 video of the week on YouTube using only the audiovisual content from the remaining top 10 videos; and (2) a real-time augmented reality experience presented through a virtual reality headset and headphones presenting a scene synthesis of a participant's surroundings using only previously learned audiovisual fragments. Results from both outputs demonstrate the ability for scene synthesis to provoke meaningful engagements with one's own process of perception. The results further demonstrate that scene synthesis is capable of highlighting both theoretical and practical gaps in our current understanding of human perception and their computational implementations.
 
 ## Makino Takashi
 
