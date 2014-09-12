@@ -132,17 +132,6 @@ Forthcoming.
 ### Description
 Forthcoming.
 
-## Makino Takashi
-
-<figure>
-	<a href="/images/takashi.gif"><img width="400" src="/images/takashi.gif" alt=""></a>
-</figure>
-
-[Makino Takashi](http://makinotakashi.net/) is a Japanese experimental film artist.
-
-### Description
-Forthcoming
-
 ## Spencer Topel
 
 <figure>
@@ -156,7 +145,7 @@ Forthcoming
 Forthcoming.
 
 ## James Traer
-
+m
 <figure>
 	<a href="/images/traer.jpg"><img width="400" src="/images/traer.jpg" alt=""></a>
 </figure>
