@@ -10,15 +10,6 @@ share: true
 ---
 # Confirmed Workshops
 
-## Michael Casey
-
-<figure>
-	<a href="/images/casey.jpg"><img width="200" src="/images/casey.jpg" alt=""></a>
-</figure>
-
-### Description
-Forthcoming.
-
 ## DAAT (Jason Hockman & Joseph Thibodeau)
 
 <figure>
@@ -167,6 +158,15 @@ Kevin Woods is a graduate student researcher at Josh McDermott's [Laboratory for
 ### Description
 
 His talk description is forthcoming but will likely focus on auditory scene analysis for creative audio synthesis.
+
+## Michael Casey
+
+<figure>
+	<a href="/images/casey.jpg"><img width="200" src="/images/casey.jpg" alt=""></a>
+</figure>
+
+### Description
+Forthcoming.
 
 # Other Speakers (Unconfirmed)
 
