@@ -165,22 +165,11 @@ His talk description is forthcoming but will likely focus on auditory scene anal
 	<a href="/images/casey.jpg"><img width="200" src="/images/casey.jpg" alt=""></a>
 </figure>
 
-### Description
-Forthcoming.
+[Michael Casey](http://eamusic.dartmouth.edu/~mcasey/) is an algorithm artist, electro-acoustic music composer, and computer scientist. His work explores the intersection of perception, cognition, creativity, algorithm, and culture. A co-editor of the MPEG-7 International Standard for Content-Based Media Archives, he applies algorithms to the creation of audio-visual art from film and sound archives. Michael has received international prizes and awards from the Bourges foundation (IMEB, Fr.), NEWCOMP (USA), Discover Awards, and funding from the National Endowment for the Humanities (NEH), Google Inc., Yahoo Inc., the Engineering and Physical Sciences Research Council (EPSRC, UK), Mellon Foundation / Leslie Center for the Humanities, and the Neukom Institute for Computational Science.
 
-# Other Speakers (Unconfirmed)
+### Archive BLASTing for Audio-Visual Synthesis
 
-## Joan Bruna
-
-<figure>
-	<a href="/images/bruna.jpg"><img width="200" src="/images/bruna.jpg" alt=""></a>
-</figure>
-
-[Joan Bruna](http://cims.nyu.edu/~bruna/Home.html) Is a postdoctoral researcher in applied mathematics in Yann LeCun’s group, in the Courant Institute, New York. Joan's research focuses on scattering transforms for classification and he has demonstrated scattering transforms on algorithms for [audio texture synthesis](http://cims.nyu.edu/~bruna/Audio_Texture_Synthesis.html).
-
-### Description
-
-Forthcoming.
+I will present Dartmouth's BLAST (Bregman Labs' Audio-viSual Transformation) plugins for real-time retrieval from big media archives. BLAST tools are compatible with widely-used platforms via standard plug-in frameworks such as Max/MSP/Jitter, PD, VST, AU, and LADSPA. I will give examples of non-repeating dynamic texture synthesis and sonic control of archive-generated film, and speculate on the critical inter-mediation that these new computational tools afford.
 
 ## Spencer Topel
 
@@ -188,10 +177,10 @@ Forthcoming.
 	<a href="/images/topel.jpg"><img width="200" src="/images/topel.jpg" alt=""></a>
 </figure>
 
-[Spencer Topel](http://www.spencertopel.com/) is a composer and Assistant Professor of Music at Dartmouth College. His works include three string quartets, five symphonic works, and numerous chamber and electronic works and sound-art installations. 
+[Spencer Topel](http://www.spencertopel.com/) is a composer and sound artist living in Hanover, NH. He holds a tenure-track position as an Assistant Professor of Music at Dartmouth College, and is involved with concerts and exhibitions throughout the United States and abroad. Upcoming events include work exhibited in the P.3+ in New Orleans and premieres in 2015 at Roulette in NYC and the NYU Skirball Center.
 
-### Description
+### Scaleable Art: Open Source for Sound Art and Installation
 
-Forthcoming.
+Over just the past five years, the Open-Source (OS) Hardware community has expanded into a multi-million dollar industry. The opportunities for integrating hardware/software OS have given rise to a new kind of inventor, but also provides opportunities for digital artists to explore previously costly or inaccessible projects, such as multi-computer installations, cluster computing for audio/video processing and sonification/visualization. This workshop will present the nuts and bolts of how to get started with OS Hardware/Software. 
 
 
