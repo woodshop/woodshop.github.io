@@ -155,9 +155,9 @@ Every room is different and hence has a set of unique impulse responses associat
 
 Kevin Woods is a graduate student researcher at Josh McDermott's [Laboratory for Computational Audition](http://mcdermottlab.mit.edu/).
 
-### Description
+### Principles of Auditory Scene Analysis for Audio Synthesis
 
-His talk description is forthcoming but will likely focus on auditory scene analysis for creative audio synthesis.
+Understanding the perceptual organization of sound can aid creative synthesis. For example, why might two different sounds fuse together rather than being heard as distinct? What kinds of sounds grab your attention, and why? Issues like these are not fully understood, but what we do know might help us better predict the perceptual effect of sounds we want to make, or guess how sounds should be changed to get the effects we want. In addition to primary processes which are largely obligatory, our perception of auditory scenes is also heavily influenced by attention. So, an awareness of attentional dynamics may also inform creative audio synthesis. Prior work tended to approach auditory attention as allocated in a stationary way to sound sources with consistent features. However, recent work suggests that attention can also track a sound source as it changes over time, and that this moving locus of attention can influence the formation of auditory objects and aid in selection among similar sources.
 
 ## Michael Casey
 
