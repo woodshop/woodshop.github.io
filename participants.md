@@ -8,7 +8,7 @@ image:
   creditlink: 
 share: true
 ---
-# Confirmed Workshops
+# Workshops
 
 ## DAAT (Jason Hockman & Joseph Thibodeau)
 
