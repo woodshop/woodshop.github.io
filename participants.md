@@ -129,11 +129,13 @@ You may find it helpful to install SuperCollider before attending the workshop a
 	<a href="/images/sarroff.jpg"><img width="200" src="/images/sarroff.jpg" alt=""></a>
 </figure>
 
-[Andy Sarroff](http://www.cs.dartmouth.edu/~sarroff/) is a doctoral student in Computer Science at Dartmouth.
+[Andy Sarroff](http://www.cs.dartmouth.edu/~sarroff/) is a doctoral student in Computer Science at Dartmouth working in the domain of music computation. He researches methods for data-driven musical audio synthesis using neural networks. Andy holds a Masters of Music from the Music Technology program at NYU and a BA in Music from Wesleyan University.
 
-### Description
+Past projects include prediction of spatial characteristics in recorded music; automatic playlist generation; operating system sonification; and extraction of rhythmic-acoustic descriptors for measuring musical groove similarity.
 
-He will give a tutorial on building neual networks for musical sound synthesis.
+### Autoencoding Musical Synthesizers
+
+Autoecoders are neural networks that learn to reproduce their input at their output. They have an encoding stage where an input data space is transformed into a hidden representation, and a decoding stage where the output of the hidden representation is transformed to the original data space. The first part of the talk will cover basic principles of autoencoders, including designing the model's structure, using activation functions, connectedness, training, and regularization. The second part of the talk will discuss the application of autoencoders for musical sound synthesis, including design challenges, musical interfaces, and performability.
 
 ## James Traer
 
@@ -153,7 +155,7 @@ Every room is different and hence has a set of unique impulse responses associat
 	<a href="/images/woods.jpg"><img width="200" src="/images/woods.jpg" alt=""></a>
 </figure>
 
-Kevin Woods is a graduate student researcher at Josh McDermott's [Laboratory for Computational Audition](http://mcdermottlab.mit.edu/).
+Kevin Woods is a graduate student in the Speech and Hearing Bioscience and Technology program (Harvard-MIT) working under Josh McDermott at the MIT [Laboratory for Computational Audition](http://mcdermottlab.mit.edu/). His research interests include auditory attention and perceptual organization. 
 
 ### Principles of Auditory Scene Analysis for Audio Synthesis
 
@@ -183,4 +185,25 @@ I will present Dartmouth's BLAST (Bregman Labs' Audio-viSual Transformation) plu
 
 Over just the past five years, the Open-Source (OS) Hardware community has expanded into a multi-million dollar industry. The opportunities for integrating hardware/software OS have given rise to a new kind of inventor, but also provides opportunities for digital artists to explore previously costly or inaccessible projects, such as multi-computer installations, cluster computing for audio/video processing and sonification/visualization. This workshop will present the nuts and bolts of how to get started with OS Hardware/Software. 
 
+## Daniel J Wilson
+
+<figure>
+	<a href="/images/wilson.jpg"><img width="200" src="/images/wilson.jpg" alt=""></a>
+</figure>
+
+[Daniel J Wilson](http://www.danieljwilson.com/) is an artist and filmmaker working across multiple media.  
+
+His work has been exhibited at galleries and festivals internationally, including Bunkier Sztuki in Krakow, Broadway Media Center in Nottingham, The European Independent Film Festival in Paris, culturaDigital in Rio de Janeiro, the Copenhagen Art Festival, the DUMBO Arts Festival and MoMA PS1 in New York.  His work has been covered by The New York Times, The London Times, The Daily Telegraph, Neural, L Magazine and Art F City.
+
+Wilson has recently completed residencies at SOMA in Mexico City, IMC Lab+Gallery in New York, a fellowship program with UnionDocs, and was selected to attend The School for Poetic Computation.  He is currently part of The New Museum’s incubator program NEW INC.  
+
+His work has been supported by the Ontario Arts Council, the National Film Board of Canada, Grand NCE and the Canada Council for the Arts.
+
+He was also a co-founder of the one year pop-up non-profit artspace MMX in Berlin in 2010 and works freelance as a co-producer and editor for the PBS FRONTLINE series.
+
+Wilson holds a Bachelor of Arts & Science from McMaster University, and a MSc. in Art & Technology from the IT University at Chalmers in Göteborg, Sweden.
+
+### HKL•••XYZ
+
+A talk about visualizing reciprocal space based on a project I am currently working on with a structural biologist at McGill University. More documentation [here](www.hkl.xyz).
 
