@@ -44,9 +44,9 @@ Carlos will give a tutorial on making a hybrid digital/analog device for reading
 
 [Alex Dupuis](http://www.alexanderdupuis.com/about.php) is a composer, animator, and performer. His work investigates the intersections between experimental music and film, focusing particularly on theories of audiovisual perception and transduction of information between light and sound. He performs as a guitarist, as well as with audiovisual instruments and software systems of his own design. He is currently pursuing a PhD in Brown University's Multimedia & Electronic Music Experiments program.
 
-### Description
+### Digital raster scanning as audiovisual synthesis
 
-Alex will discuss digital raster scanning as audiovisual synthesis.
+The process of raster scanning, adapted from its analog television origins, offers a simple means of mapping between audio and video data. The flexibility afforded by this process allows for the creation of trans-modal feedback loops, as well as the application of effects from one domain to data originating in the other. Moreover, the distortions of the digital translation process can be exploited to create a wide array of new patterns, animations and sounds. Working in Max/MSP, I'll describe and implement an example of audiovisual raster scanning, discuss the considerations specific to a digital version, and demonstrate a number of the unique opportunities and by-products of the digital process.
 
 ## James Kerr
 
