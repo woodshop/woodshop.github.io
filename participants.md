@@ -31,7 +31,7 @@ Forthcoming.
 
 [Carlos Dominguez](http://charlossound.wordpress.com/) works on a variety of different projects that involve chamber music, laptop performances, and sound installations. Most recently he has been interested in the uses of visible light in musical performances and compositions. He is currently a research assistant at Dartmouth College on a project with Jodie Mack.
 
-## Description
+## Light-Data Two Ways: Constructing Light Sensors for Analog and Digital Output
 Carlos will give a tutorial on making a hybrid digital/analog device for reading visible light data and discuss how it can be used for installation and performance art. In collaboration with Alexander Dupuis, the device will be incorporated into a performance at the Workshop in the Woods.
 
 # Alex Dupuis
@@ -40,7 +40,7 @@ Carlos will give a tutorial on making a hybrid digital/analog device for reading
 	<a href="/images/dupuis.png"><img width="200" src="/images/dupuis.png" alt=""></a>
 </figure>
 
-[Alex Dupuis](http://www.alexanderdupuis.com/about.php) is a composer, animator, and performer. His work investigates the intersections between experimental music and film, focusing particularly on theories of audiovisual perception and transduction of information between light and sound. He performs as a guitarist, as well as with audiovisual instruments and software systems of his own design. He is currently pursuing a PhD in Brown University's Multimedia & Electronic Music Experiments program.
+[Alex Dupuis](http://www.alexanderdupuis.com/about.php) is a composer, animator, and performer. His work investigates the intersections between experimental music and animation, focusing particularly on theories of audiovisual perception and transduction of information between light and sound. He performs as a guitarist, as well as with audiovisual instruments and software systems of his own design. He received an MA from Dartmouth's Digital Musics program in 2012, and is currently pursuing a PhD in Brown University's Multimedia & Electronic Music Experiments program.
 
 ## Digital raster scanning as audiovisual synthesis
 
