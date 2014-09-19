@@ -54,8 +54,9 @@ The process of raster scanning, adapted from its analog television origins, offe
 
 James Kerr is an animator who creates GIFs using Renaissance art and graphic illustrations. His humorous work treats subjects such as religion, class, entertainment, and modernism by juxtaposing Renaissance art with graphic depictions drawn from pop cultural references. [His work](http://scorpiondagger.com/) has been featured on [Boing Boing](http://boingboing.net/2014/08/04/the-amazing-renaissance-art-gi.html) and other blogs.
 
-## Description
-James will talk about his compositional process, along with a discussion of interactive (GIF) art in live settings.
+## Animated GIFs, the Internet, and Art
+
+It’s hard to escape the animated GIF. Spend anytime surfing the internet, and you are bound to see more than a few. From their use in marketing to internet memes, the GIF has seen a renaissance within the last few years. But despite their ubiquity, many are exploring the medium as art. In this workshop, James will explain his process of making an animated GIF by creating a collaborative piece with those in attendance, which he will post online at its completion. Who knows, maybe it go viral! 
 
 # Le Révélateur (Roger Tellier-Craig & Sabrina Ratté)
 
