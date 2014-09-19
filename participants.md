@@ -95,17 +95,6 @@ Forthcoming.
 ### Description 
 She will lead a demonstration of optical sound 16mm projector drum circles, share historical gems, and lead discussions on the contemporary possibilities and problems of A/V synthesis.
 
-## Kyle McDonald
-
-<figure>
-	<a href="/images/mcdonald.png"><img width="200" src="/images/mcdonald.png" alt=""></a>
-</figure>
-
-[Kyle McDonald](http://kylemcdonald.net/) is a computational artist who is an active contributor to the [openFrameworks](http://www.openframeworks.cc/) community. He has been a resident at CMU's [Frank-Ratchye Studio for Creative Inquiry](http://studioforcreativeinquiry.org/) and is an Adjunct Professor at NYU's ITP.
-
-### "Light Leaks"
-["Light Leaks"](http://vimeo.com/66167082) is an immersive installation that uses mirror balls to reflect light from multiple projectors and cover the entirety of space. The mapping of every reflection is computed using a technique called structured light, which allows us to recover the 3d position and orientation of every reflection, as well as its origin in screen space. We will cover the general architecture of the system, including the calibration phase, and a brief discussion of related work and next steps.
-
 ## Scott Petersen
 
 <figure>
