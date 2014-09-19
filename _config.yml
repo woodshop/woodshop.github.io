@@ -40,7 +40,7 @@ bing_verify:
 links:
   - title: About
     url: "#about"
-  - title: Speakers
+  - title: Workshop Presentations
     url: "/participants.html"
   - title: Schedule
     url: "#schedule"

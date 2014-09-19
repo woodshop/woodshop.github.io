@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Speakers"
+title: "Workshop Presentations"
 tags: [participants]
 image:
   feature: pierce2.jpg
@@ -8,7 +8,7 @@ image:
   creditlink: 
 share: true
 ---
-# Workshops
+# Workshop Presentations
 
 ## DAAT (Jason Hockman & Joseph Thibodeau)
 
