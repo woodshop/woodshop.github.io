@@ -20,8 +20,9 @@ Jason Hockman recently completed a PhD at McGill University in Music Technology 
 
 Joseph Thibodeau is a musician and researcher associated with McGill University's Music Technology area and Concordia University's Penhune Laboratory for Motor Learning and Neural Plasticity. His work centres mainly around new digital musical instruments, specifically augmented trumpets, which he designs for use in live performance and studio production.
 
-## Description
-Forthcoming.
+## Translating Visual Cues into the Auditory Domain
+
+In this talk DAAT will discuss design choices and considerations for evoking visual imagery in the auditory domain within the context of 170 BPM dance music production. Topics discussed will include the historical, philosophical and practical usage of synthesis and sampling techniques in modern electronic dance music, and the parameterisation and manipulation of sampled sound.
 
 # Carlos Dominguez
 
