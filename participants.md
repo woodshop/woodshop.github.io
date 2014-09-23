@@ -81,8 +81,9 @@ Le Révélateur has released recordings on Gneiss Things and NNA
 Tapes, as well as a new LP on Root Strata entitled “Extreme Events” 
 in early September 2014. 
 
-## Description
-Forthcoming.
+## Electronic Images and Sound
+
+Sabrina anad Roger of Le Révélateur will discuss several aspects of their creative process, including the tools they use, inspirations, and relationships between images and music. Their talk will be accompanied by live performance and will conclude by kicking off Saturday night's AV Synth Jam.
 
 # Jodie Mack
 
@@ -192,7 +193,9 @@ He was also a co-founder of the one year pop-up non-profit artspace MMX in Berli
 
 Wilson holds a Bachelor of Arts & Science from McMaster University, and a MSc. in Art & Technology from the IT University at Chalmers in Göteborg, Sweden.
 
-## HKL•••XYZ
+## HKL•••XYZ: Moving from reciprocal space to real space in X-ray crystallography
 
-A talk about visualizing reciprocal space based on a project I am currently working on with a structural biologist at McGill University. More documentation [here](www.hkl.xyz).
+The workshop will be an introduction to the process of X-ray crystallography, widely used in structural biology (2014 is actually the UNESCO International Year of Crystallography), and an explanation of the process of molecular structure determination, which uses inverse Fourier transforms of information in reciprocal space to reveal real space information about the structure of a crystallized molecule.
+
+The question of how to use the physical information about the crystals, both in reciprocal space as well as inverse Fourier transformed to real space, to create sonic representations of the molecule's structural information will be considered.
 
