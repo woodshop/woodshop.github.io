@@ -32,8 +32,9 @@ In this talk DAAT will discuss design choices and considerations for evoking vis
 
 [Carlos Dominguez](http://charlossound.wordpress.com/) works on a variety of different projects that involve chamber music, laptop performances, and sound installations. Most recently he has been interested in the uses of visible light in musical performances and compositions. He is currently a research assistant at Dartmouth College on a project with Jodie Mack.
 
-## Light-Data Two Ways: Constructing Light Sensors for Analog and Digital Output
-Carlos will give a tutorial on making a hybrid digital/analog device for reading visible light data and discuss how it can be used for installation and performance art. In collaboration with Alexander Dupuis, the device will be incorporated into a performance at the Workshop in the Woods.
+## Light-Data Two Ways: Constructing Optical Sensors for Use in Analog and Digital Systems
+
+Carlos will give a tutorial on making a hybrid digital/analog system for reading visible light data and discuss how it can be used for installation and performance art. In collaboration with Alexander Dupuis, the system will be incorporated into a performance at the Workshop in the Woods.
 
 # Alex Dupuis
 
