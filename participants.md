@@ -94,8 +94,11 @@ Sabrina anad Roger of Le Révélateur will discuss several aspects of their crea
 
 [Jodie Mack](http://www.jodiemack.com/) is an experimental animator who received her MFA in film, video, and new media from The School of the Art Institute of Chicago in 2007 and currently teaches animation at Dartmouth College. Combining the formal techniques and structures of abstract/absolute animation with those of cinematic genres, her handmade films use collage to explore the relationship between graphic cinema and storytelling, the tension between form and meaning. Musical documentary or stroboscopic archive: her films study domestic and recycled materials to illuminate the elements shared between fine-art abstraction and mass-produced graphic design. Questioning the role of decoration in daily life, the works unleash the kinetic energy of overlooked and wasted objects.
 
-## Description 
-She will lead a demonstration of optical sound 16mm projector drum circles, share historical gems, and lead discussions on the contemporary possibilities and problems of A/V synthesis.
+## Spirits in Objects: Problems, Philosophies, and Potential in Sound and Image
+
+JM will share historical gems from computerized experimental animation
+history and lead discussions on the contemporary possibilities and
+problems of A/V synthesis.
 
 # Scott Petersen
 
