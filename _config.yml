@@ -41,7 +41,7 @@ links:
   - title: About
     url: "#about"
   - title: Wiki
-    url: "https://github.com/woodshop/woodshop.github.io/wiki"
+    url: https://github.com/woodshop/woodshop.github.io/wiki
   - title: Participants
     url: "/participants.html"
   - title: Talks
