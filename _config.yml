@@ -40,8 +40,12 @@ bing_verify:
 links:
   - title: About
     url: "#about"
-  - title: Workshop Presentations
+  - title: Wiki
+    url: "https://github.com/woodshop/woodshop.github.io/wiki"
+  - title: Participants
     url: "/participants.html"
+  - title: Talks
+    url: "/talks.html"
   - title: Schedule
     url: "#schedule"
   - title: Venue
