@@ -41,7 +41,7 @@ links:
   - title: About
     url: "#about"
   - title: Wiki
-    url: https://github.com/woodshop/woodshop.github.io/wiki
+    url: http://digitalmusics.dartmouth.edu/~asarroff/avsynthwiki/doku.php
     external: true
   - title: Participants
     url: "/participants.html"
