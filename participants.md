@@ -126,6 +126,12 @@ I am a 3rd year undergraduate student at the University of Virginia studying mus
 
 ### Kyle Kaplan
 
+<figure>
+	<a href="/images/kaplan.jpg"><img width="200" src="/images/kaplan.jpg" alt=""></a>
+</figure>
+
+Kyle Kaplan is pursuing his MA in Digital Musics at Dartmouth. His research interests include synthesis, compositional systems, audiovisual performance and programming, with the intention of developing sonification methods related to his past studies in meditation and Mandarin.
+
 ### Bevin Kelley
 
 <figure>
@@ -213,6 +219,12 @@ She is the founder of FemTech cyber-feminist collective, co-founder of \*blink b
 Her work encompasses 3 or more of the following at any given time: critical design, arduino, rapsberry pi, solder, copper tape, spacebrew, processing, c++, java, javascript, NSA decommissioned vending machines, Dorito Cool Ranch sensors, netArt, alternate internet, wearable technology, super 8mm footage, home videos, and geodes.
 
 ### Athina Panotopoulou
+
+<figure>
+	<a href="/images/panotopoulou.jpg"><img width="200" src="/images/panotopoulou.jpg" alt=""></a>
+</figure>
+
+Athina Panotopoulou is a PhD student at Dartmouth College in the Computer Science department. Athina applies machine learning techniques in different areas. Her latest project was about the use of neural networks for the task of polyphonic music segmentation.
 
 ### Scott Petersen
 
