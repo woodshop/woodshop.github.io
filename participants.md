@@ -307,6 +307,12 @@ James Traer is a postdoctoral researcher at Josh McDermott's [Laboratory for Com
 
 ### Shannon Werle
 
+<figure>
+	<a href="/images/werle.jpg"><img width="200" src="/images/werle.jpg" alt=""></a>
+</figure>
+
+Shannon Werle is a graduate student at Dartmouth College’s Digital Musics program. Previously, she received a Master in Engineering in Architecture and Urban Studies from Tokyo Institute of Technology as a member of Tsukamoto Laboratory in 2013 and has also delved into relationships between sound and urbanism as a fellow of the Berlin House of Representatives.
+
 ### Dan Wilcox
 
 <figure>
