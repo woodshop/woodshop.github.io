@@ -237,6 +237,16 @@ and laptop improviser. His current research and work revolves around open music 
 
 ### Alexandra Rieger
 
+<figure>
+	<a href="/images/rieger.jpg"><img width="200" src="/images/rieger.jpg" alt=""></a>
+</figure>
+
+Alexandra received her Bachelors of Arts and Sciences from Stanford University where she studied cognitive musicology from both a historical and behavioral sciences perspective. 
+
+Originally from Europe, she had the opportunity to cross back over the pond to Oxford University where she studied the impact of protest songs, sound sciences and auditory propaganda In WWII civilian Europe.
+
+As a researcher, composer, musician and honorary UN Youth Ambassador, Alexandra has employed music in both clinical and social service settings: including cognitive rehabilitation efforts, youth pain management (i.e. Shriners Hospital Children’s Burn Center, etc.) and global efforts throughout the United States, Europe and Africa. Spurred by her experiences, Alexandra seeks to further analyse the impact of sound on the human mind. She is currently conducting research exploring the links between ‘Music, Mind and Medicine’ at Dartmouth. ​
+
 ### Andy Sarroff
 
 <figure>
