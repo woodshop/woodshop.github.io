@@ -154,7 +154,7 @@ James Kerr is an animator who creates GIFs using Renaissance art and graphic ill
 	<a href="/images/kim.png"><img width="200" src="/images/kim.png" alt=""></a>
 </figure>
 
-Digital Musics @Dartmouth
+I'm a second year graduate student in Digital Musics at Dartmouth. My research interest is in chord recognition and generation, and I'm currently focusing on modeling a probability model for feasible chord progressions based on music theory. I don't do AV synthesis for creative purposes, but I love both technology and music - my undergraduate background is in signal processing and I write songs!
 
 ### Le Révélateur (Roger Tellier-Craig & Sabrina Ratté)
 
