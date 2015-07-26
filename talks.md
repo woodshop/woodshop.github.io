@@ -1,4 +1,6 @@
 ---
+redirect_to:
+  - http://willbeaum.dartmouth.edu/~avsynth/2014/talks.html
 layout: page
 title: "Workshop Talks"
 tags: [talks]
