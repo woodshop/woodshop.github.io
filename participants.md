@@ -1,4 +1,6 @@
 ---
+redirect_to:
+  - http://willbeaum.dartmouth.edu/~avsynth/2014/participants.html
 layout: page
 title: "Participants"
 tags: [participants]
