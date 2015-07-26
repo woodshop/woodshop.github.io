@@ -86,3 +86,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 # adding list of gems as per: https://help.github.com/articles/using-jekyll-plugins-with-github-pages
 gems:
 - bundler
+- jekyll-redirect-from
